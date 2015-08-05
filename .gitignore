@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Aug 05 07:40:23 2015
+
+@author: Tanner
+"""
+
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+.DS_Store
